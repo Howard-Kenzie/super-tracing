@@ -1,0 +1,7 @@
+.titleAtom {
+    color: var(--secondary);
+    text-align: left;
+    padding-left: 10px;
+    margin: 0;
+    font-size: 2rem;
+}

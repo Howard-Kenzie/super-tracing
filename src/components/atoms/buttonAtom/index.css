@@ -1,0 +1,16 @@
+.buttonAtom {
+    border: 0;
+    width: 100%;
+    background: var(--secondary);
+    color: var(--primary);
+    font-size: 1.6rem;
+    border-radius: 10px;
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+@media (min-width: 765px) {
+    .buttonAtom {
+        width: 30%;
+    }
+}

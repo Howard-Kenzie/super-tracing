@@ -1,0 +1,7 @@
+.textAtom {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 5px;
+    color: var(--secondary);
+    margin: 20px 0;
+}

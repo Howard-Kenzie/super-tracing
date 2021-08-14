@@ -1,0 +1,18 @@
+.utilities {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+    .utilities--section {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+    }
+        .utilities--section h4 {
+            color: var(--dark-secondary)
+        }
+        .utilities--section a {
+            margin: 5px 0;
+            color: var(--secondary)
+        }
